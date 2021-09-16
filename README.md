@@ -1,8 +1,5 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Hello-HTML and CSS Basic
-
-This project is my first project as a Micronaut
+# Portfolio-mobile-version-skeleton-setup
+A Repository to create my portfolio
 
 ## Built With
 
